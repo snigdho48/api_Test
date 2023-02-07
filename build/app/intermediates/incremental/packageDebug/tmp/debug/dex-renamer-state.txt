@@ -1,0 +1,4 @@
+#Tue Feb 07 18:25:22 BDT 2023
+base.0=C\:\\Users\\ai\\Desktop\\api_eartqueak - Copy\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
